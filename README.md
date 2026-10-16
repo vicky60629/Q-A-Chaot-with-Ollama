@@ -1,1 +1,1 @@
-# Q-A-Chaot-with-Ollama
+# QnA-Chatbot-with-Ollama
